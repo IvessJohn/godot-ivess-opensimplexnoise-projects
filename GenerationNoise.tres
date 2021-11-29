@@ -1,0 +1,6 @@
+[gd_resource type="OpenSimplexNoise" format=2]
+
+[resource]
+octaves = 2
+period = 23.3
+persistence = 0.528
